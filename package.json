@@ -13,7 +13,7 @@
     "@angular/animations": "^14.0.0",
     "@angular/common": "^14.0.0",
     "@angular/compiler": "^14.0.0",
-    "@angular/core": "https://output.circle-artifacts.com/output/job/9387cf04-2cb0-47ad-b868-42121b6a011f/artifacts/0/angular/core-pr46497-91c5f1807c.tgz",
+    "@angular/core": "^14.0.0",
     "@angular/forms": "^14.0.0",
     "@angular/platform-browser": "^14.0.0",
     "@angular/platform-browser-dynamic": "^14.0.0",
